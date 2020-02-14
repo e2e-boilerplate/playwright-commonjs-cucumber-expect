@@ -7,7 +7,7 @@ const {
   setDefaultTimeout
 } = require("cucumber");
 const { chromium } = require("playwright");
-const { strictEqual } = require("assert");
+const expect = require("expect");
 
 let page;
 let browser;
@@ -38,10 +38,10 @@ Given("Navigate to the sandbox", async () => {
 
 When("I am on the sandbox page", async () => {
   await page.waitFor("h1");
-  strictEqual(await page.title(), "Sandbox");
+  expect(await page.title()).toEqual("Sandbox");
 });
 
 Then("The page header should be {string}", async header => {
   const title = await page.$eval("h1", el => el.textContent);
-  strictEqual(title, header);
+  expect(title).toEqual(header);
 });
