@@ -1,4 +1,4 @@
-name: playwright-commonjs-cucumber-expect
+name: playwright-commonjs-cucumberjs-expect
 
 on:
   push:
