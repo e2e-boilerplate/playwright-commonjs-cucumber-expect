@@ -1,7 +1,7 @@
 {
-  "name": "playwright-commonjs-cucumber-expect",
+  "name": "playwright-commonjs-cucumberjs-expect",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Cucumber and Expect.",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, CucumberJS and Expect.",
   "scripts": {
     "test": "./node_modules/.bin/cucumber-js",
     "lint": "npx eslint --ext .js ./ --fix"
@@ -9,7 +9,7 @@
   "keywords": [
     "playwright",
     "commonjs",
-    "cucumber",
+    "cucumberjs",
     "expect",
     "boilerplate",
     "example"
