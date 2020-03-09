@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/issues"
   },
@@ -9,7 +9,7 @@
     "expect": "25.1.0",
     "playwright": "0.11.1"
   },
-  "description": "Playwright end-to-end test automation boilerplate. Using Using Commonjs, Cucumber and Expect.",
+  "description": "Playwright end-to-end test automation boilerplate. using Commonjs, Cucumber and Expect.",
   "devDependencies": {
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
@@ -29,14 +29,9 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
     "cucumber",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "playwright"
   ],
   "license": "MIT",
