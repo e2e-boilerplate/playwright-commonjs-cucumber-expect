@@ -6,7 +6,7 @@ Playwright end-to-end test automation boilerplate, using Commonjs, Cucumber and 
 
 ## Getting Started
 
-git clone git@github.com:e2e-boilerplate/playwright-commonjs-cucumber-expect.git
-cd playwright-commonjs-cucumber-expect
-npm install
-npm run test
+    	git clone git@github.com:e2e-boilerplate/playwright-commonjs-cucumber-expect.git
+    	cd playwright-commonjs-cucumber-expect
+    	npm install
+    	npm run test
