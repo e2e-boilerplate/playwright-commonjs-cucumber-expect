@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-cucumber-expect](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/workflows/playwright-commonjs-cucumber-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/actions?workflow=playwright-commonjs-cucumber-expect)
+[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-cucumber-expect](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/workflows/playwright-commonjs-cucumber-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/actions?workflow=playwright-commonjs-cucumber-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Playwright Boilerplate
 
