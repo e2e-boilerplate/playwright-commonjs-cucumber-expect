@@ -1,5 +1,5 @@
 name: playwright-commonjs-cucumber-expect
-"on":
+'on':
   push: null
   schedule:
     - cron: 30 3 1-31/2 * *
