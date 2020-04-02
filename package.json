@@ -24,7 +24,7 @@
   "homepage": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged"
+      "pre-commit": "lint-staged"
     }
   },
   "keywords": [
@@ -39,6 +39,11 @@
     "playwright"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "playwright-commonjs-cucumber-expect",
   "repository": {
     "type": "git",
