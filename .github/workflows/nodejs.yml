@@ -2,7 +2,7 @@ name: playwright-commonjs-cucumber-expect
 'on':
   push: null
   schedule:
-    - cron: 0 2 1-31/2 * *
+    - cron: 30 8 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
