@@ -1,9 +1,10 @@
 | referrer                                                                                   | count | uniques |
 | :----------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect                                       | 6     | 4       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect/tree/master/features                  | 4     | 2       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/features/sandbox.feature  | 3     | 2       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/features/support/steps.js | 2     | 1       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/package.json              | 2     | 1       |
-| /e2e-boilerplate/playwright-commonjs-cucumber-expect/tree/master/features/support          | 2     | 1       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect                                       | 7     | 5       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/tree/master/features                  | 6     | 3       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/features/sandbox.feature  | 4     | 3       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/package.json              | 4     | 2       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/blob/master/features/support/steps.js | 3     | 2       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/tree/master/features/support          | 3     | 2       |
+| /e2e-boilerplate/playwright-commonjs-cucumber-expect/actions                               | 1     | 1       |
 | /e2e-boilerplate/playwright-commonjs-cucumber-expect/pull/21                               | 1     | 1       |
