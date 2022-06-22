@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-cucumber-expect/issues"
   },
   "dependencies": {
-    "chromedriver": "90.0.1",
+    "chromedriver": "103.0.0",
     "cucumber": "6.0.7",
     "expect": "26.6.2",
     "playwright": "1.22.2"
