@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "chromedriver": "90.0.1",
-    "cucumber": "6.0.7",
+    "@cucumber/cucumber": "7.0.0",
     "expect": "26.6.2",
     "playwright": "1.25.2"
   },
